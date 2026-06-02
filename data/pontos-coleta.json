@@ -1,1 +1,182 @@
-
+{
+  "projeto": "InfoSustentabilidade Digital",
+  "cidades": [
+    {
+      "cidade": "Rio do Oeste",
+      "pontos_coleta": [
+        {
+          "id_ponto": 1,
+          "nome_local": "Departamento do Meio Ambiente",
+          "endereco": "R. Padre Dionísio, 175 - Centro, Rio do Oeste - SC",
+          "bairro": "Centro",
+          "cidade": "Rio do Oeste",
+          "contato": "(47) 3543-0261",
+          "link_maps": "https://maps.app.goo.gl/vAdXK9WYafiyRufz6",
+          "materiais_aceitos": [
+            "Pilhas",
+            "Baterias",
+            "Celular",
+            "Tablet",
+            "Computadores",
+            "Notebooks",
+            "Periféricos",
+            "Televisores",
+            "Videogame",
+            "Cabos",
+            "Carregadores",
+            "Fontes",
+            "Pequenos Eletrodomésticos",
+            "Lâmpadas",
+            "Controles"
+          ],
+          "procedimento": {
+            "precisa_agendamento": false,
+            "possui_custo": false,
+            "modalidade": "entrega no local"
+          },
+          "evidencias": [
+            {
+              "tipo": "foto",
+              "arquivo": "evidencias/imagem1.jpg",
+              "descricao": "Fachada do local"
+            }
+          ]
+        },
+        {
+          "id_ponto": 2,
+          "nome_local": "Secretaria da Agricultura de Rio do Oeste",
+          "endereco": "Rua Luiz Bertoli, 403",
+          "bairro": "Jardins das Hortênsias",
+          "cidade": "Rio do Oeste",
+          "contato": "(47) 3543-0664",
+          "link_maps": "https://maps.app.goo.gl/forKPtbcdkpy6wz97",
+          "materiais_aceitos": [
+            "Pilhas",
+            "Baterias",
+            "Celular",
+            "Tablet",
+            "Computadores",
+            "Notebooks",
+            "Periféricos",
+            "Televisores",
+            "Videogame",
+            "Cabos",
+            "Carregadores",
+            "Fontes",
+            "Pequenos Eletrodomésticos",
+            "Lâmpadas"
+          ],
+          "procedimento": {
+            "precisa_agendamento": false,
+            "possui_custo": false,
+            "modalidade": "entrega no local"
+          },
+          "evidencias": [
+            {
+              "tipo": "foto",
+              "arquivo": "evidencias/imagem2.jpg",
+              "descricao": "Campanha de arrecadação"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "cidade": "Rio do Sul",
+      "pontos_coleta": [
+        {
+          "id_ponto": 3,
+          "nome_local": "Green Tec Reciclagem",
+          "endereco": "R. XV de Novembro, 2172 - Laranjeiras",
+          "bairro": "Laranjeiras",
+          "cidade": "Rio do Sul",
+          "contato": "(47) 3522-8690",
+          "link_maps": "https://maps.app.goo.gl/RGGyyDmJ1M8fYybC8",
+          "materiais_aceitos": [
+            "Equipamentos eletrônicos",
+            "Computadores",
+            "Periféricos",
+            "Cabos",
+            "Baterias"
+          ],
+          "procedimento": {
+            "precisa_agendamento": false,
+            "possui_custo": true,
+            "modalidade": "coleta e recebimento no local"
+          },
+          "evidencias": []
+        }
+      ]
+    },
+    {
+      "cidade": "Presidente Nereu",
+      "pontos_coleta": [
+        {
+          "id_ponto": 4,
+          "nome_local": "Centro Social João Voltolini",
+          "endereco": "Centro",
+          "bairro": "Centro",
+          "cidade": "Presidente Nereu",
+          "contato": "(47) 3362-1108",
+          "link_maps": "https://maps.app.goo.gl/oCssttBo6cY12Q7F7",
+          "materiais_aceitos": [],
+          "procedimento": {
+            "precisa_agendamento": false,
+            "possui_custo": false,
+            "modalidade": "entrega em campanhas específicas"
+          },
+          "evidencias": []
+        },
+        {
+          "id_ponto": 5,
+          "nome_local": "Unidade Básica de Saúde Adilcio da Silva",
+          "endereco": "Rua João XXIII, 560 - Centro",
+          "bairro": "Centro",
+          "cidade": "Presidente Nereu",
+          "contato": "(47) 3362-1229",
+          "link_maps": "https://maps.app.goo.gl/t39rhqhFuykhhxCs5",
+          "materiais_aceitos": [
+            "Pilhas",
+            "Baterias",
+            "Periféricos",
+            "Cabos",
+            "Carregadores",
+            "Fontes",
+            "Pequenos Eletrodomésticos",
+            "Lâmpadas"
+          ],
+          "procedimento": {
+            "precisa_agendamento": false,
+            "possui_custo": false,
+            "modalidade": "entrega voluntária"
+          },
+          "evidencias": [
+            {
+              "tipo": "site",
+              "arquivo": "https://presidentenereu.atende.net/cidadao/noticia/municipio-instala-pontos-de-entrega-voluntaria-da-logistica-reversa",
+              "descricao": "Notícia oficial sobre os pontos de coleta"
+            }
+          ]
+        },
+        {
+          "id_ponto": 6,
+          "nome_local": "Praça Leão Dehon",
+          "endereco": "Praça Leão Dehon - Centro",
+          "bairro": "Centro",
+          "cidade": "Presidente Nereu",
+          "contato": "(47) 3362-1108",
+          "link_maps": "https://maps.app.goo.gl/eUUtHZXV5nq11hac7",
+          "materiais_aceitos": [],
+          "procedimento": {
+            "precisa_agendamento": false,
+            "possui_custo": false,
+            "modalidade": "ponto temporário de campanhas"
+          },
+          "evidencias": []
+        }
+      ]
+    }
+  ]
+}
+  ]
+}
