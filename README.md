@@ -52,7 +52,36 @@ Gabriel Schmoller
 
 Este projeto possui finalidade educacional e acadêmica.
 
+## 1. Como a pesquisa anterior ajudou na criação do sistema?
+
+A pesquisa anterior foi fundamental para identificar o problema do descarte inadequado de resíduos eletrônicos e levantar informações sobre os pontos de coleta disponíveis na região. Esses dados serviram como base para definir quais informações seriam armazenadas e disponibilizadas no sistema, garantindo que ele atendesse às necessidades dos usuários.
+
+## 2. O que mudou quando transformamos texto em dados?
+
+Ao transformar textos em dados estruturados, as informações passaram a ser organizadas de forma padronizada, facilitando a consulta, filtragem, atualização e análise. Isso permitiu que o sistema processasse as informações de maneira mais eficiente e automatizada.
+
+## 3. O que a planilha ajudou a visualizar?
+
+A planilha ajudou a visualizar todos os pontos de coleta, materiais aceitos, endereços, contatos e observações de forma organizada. Ela também permitiu identificar padrões, corrigir inconsistências e verificar se os dados estavam completos antes de serem utilizados no sistema.
+
+## 4. O que o JSON representa melhor?
+
+O JSON representa melhor a estrutura dos dados que serão utilizados por sistemas e aplicações. Ele organiza as informações em objetos e listas, facilitando a troca de dados entre o banco de dados, o backend e a interface do usuário.
+
+## 5. O que o banco de dados faz melhor que a planilha?
+
+O banco de dados oferece maior segurança, integridade e desempenho para armazenar grandes volumes de informações. Além disso, permite consultas rápidas, relacionamentos entre dados, controle de acesso e atualização simultânea por vários usuários, recursos que uma planilha possui de forma limitada.
+
+## 6. Por que o GitHub é útil em um projeto de sistema?
+
+O GitHub é útil porque permite armazenar o código-fonte do projeto, controlar versões, registrar alterações realizadas ao longo do desenvolvimento e facilitar o trabalho em equipe. Dessa forma, é possível acompanhar a evolução do sistema e recuperar versões anteriores quando necessário.
+
+## 7. Qual foi a maior dificuldade da atividade?
+
+A maior dificuldade da atividade foi coletar, validar e padronizar as informações obtidas durante a pesquisa. Muitos dados precisaram ser conferidos, organizados e convertidos para formatos adequados, como planilhas, JSON e banco de dados, garantindo a consistência das informações utilizadas no sistema.
+
 🌱 “Pequenas atitudes sustentáveis geram grandes impactos no futuro.”
+
 
 
 
