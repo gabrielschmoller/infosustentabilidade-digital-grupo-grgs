@@ -39,7 +39,8 @@ Lista das Abas da Planilha:
 
 #### Feitos por Gabriel Schmoller
 
-1- Evidencias.md
+1- Criação dos arquivos do Git Hub
+2- Evidencias.md
 
 ## Evidências do Supabase
 
